@@ -225,7 +225,7 @@ const Contacts = ({ reff }) => {
                 </li>
                 <li>
                   <i className="fa fa-phone fa-lg mt-4 text-primary"></i>
-                  <p>+256(0)759933173<br>+256(0)761504442</br></p>
+                  <p>+256(0)759933173<br />+256(0)702325220<br />+256(0)789037899<br />+256(0)761504442</p>
                 </li>
                 <li>
                   <i className="fa fa-envelope fa-lg mt-4 text-primary"></i>

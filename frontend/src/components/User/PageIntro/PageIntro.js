@@ -16,7 +16,7 @@ const PageIntro = ({ reff }) => {
                       className="display-3 fw-bold   pt-md-5 pt-5"
                       style={{ color: "#2A083F" }}
                     >
-                      Full Stack Web Developer
+                     Full Stack Web Developer
                     </h3>
                     <hr className=" my-4 text-light" />
                   </div>
