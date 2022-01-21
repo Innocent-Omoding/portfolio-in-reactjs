@@ -230,6 +230,7 @@ const Contacts = ({ reff }) => {
                 <li>
                   <i className="fa fa-envelope fa-lg mt-4 text-primary"></i>
                   <p className="mb-0">omodinginnocent121@gmail.com</p>
+                  <p className="mb-0">innocentomoding1@gmail.com</p>
                 </li>
               </ul>
             </div>
