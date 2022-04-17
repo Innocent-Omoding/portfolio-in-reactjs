@@ -8,7 +8,7 @@ const About = ({ reff }) => {
       ref={reff}
       id="about"
       className="py-5"
-      style={{ backgroundColor: "#fff" }}
+      style={{ backgroundColor: "#fefe" }}
     >
       <div className="container">
         <h2 className="h1-responsive font-weight-bold text-center mb-5">
@@ -21,8 +21,7 @@ const About = ({ reff }) => {
           </div>
           <div className="col-lg-8">
             <p className="text-font text-justify">
-            I am a junior Software developer
-              and selling Computer Systems.
+            I am a junior Software developer.
               <br /> Through my studies, I acquired strong skills in
               the field of software development. The various projects and
               internships that I have carried out have enabled me to develop not

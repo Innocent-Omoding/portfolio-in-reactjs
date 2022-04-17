@@ -35,7 +35,7 @@ const Education = ({ reff }) => {
       ref={reff}
       id="education"
       className="py-5"
-      style={{ backgroundColor: "#fff" }}
+      style={{ backgroundColor: "#fdfd" }}
     >
       <div className="container">
         <h2 className="h1-responsive font-weight-bold text-center mb-5">

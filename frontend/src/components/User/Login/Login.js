@@ -42,12 +42,12 @@ const Login = () => {
                       />
                       {errors.email && errors.email.type === "required" && (
                         <div className="text-danger ms-4">
-                          You must enter your email
+                          This field is required
                         </div>
                       )}
                       {errors.email && errors.email.type === "pattern" && (
                         <div className="text-danger ms-4">
-                          You must enter a valid email
+                          This field is required
                         </div>
                       )}
                     </div>
@@ -66,7 +66,7 @@ const Login = () => {
                       {errors.password &&
                         errors.password.type === "required" && (
                           <div className="text-danger ms-4 fs-6">
-                            You must enter your password
+                            This field is required
                           </div>
                         )}
                     </div>

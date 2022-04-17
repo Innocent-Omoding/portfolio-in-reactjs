@@ -54,7 +54,7 @@ const Contacts = ({ reff }) => {
         ref={reff}
         id="contact"
         className="py-5"
-        style={{ backgroundColor: "#fff" }}
+        style={{ backgroundColor: "#fefc" }}
       >
         <div className="container pb-5">
           <h2 className="h1-responsive font-weight-bold text-center mb-5">
@@ -83,7 +83,7 @@ const Contacts = ({ reff }) => {
                       />
                       {errors.name && errors.name.type === "required" && (
                         <div className="text-danger">
-                          You must enter your name
+                          This field is required
                         </div>
                       )}
                       {errors.name && errors.name.type === "minLength" && (
@@ -116,12 +116,12 @@ const Contacts = ({ reff }) => {
                       />
                       {errors.email && errors.email.type === "required" && (
                         <div className="text-danger">
-                          You must enter your email
+                          This field is required
                         </div>
                       )}
                       {errors.email && errors.email.type === "pattern" && (
                         <div className="text-danger">
-                          You must enter a valid email
+                          Enter a valid email
                         </div>
                       )}
                     </div>
@@ -147,7 +147,7 @@ const Contacts = ({ reff }) => {
                       />
                       {errors.subject && errors.subject.type === "required" && (
                         <div className="text-danger">
-                          You must enter a subject
+                          This field is required
                         </div>
                       )}
                       {errors.subject &&
@@ -183,7 +183,7 @@ const Contacts = ({ reff }) => {
                       />
                       {errors.message && errors.message.type === "required" && (
                         <div className="text-danger">
-                          You must enter a message
+                          This field is required
                         </div>
                       )}
                       {errors.message &&
@@ -221,11 +221,11 @@ const Contacts = ({ reff }) => {
               <ul className="list-unstyled mb-0">
                 <li>
                   <i className="fa fa-map-marker fa-lg text-primary "></i>
-                  <p>Kampala, Nsambya, Gogonya</p>
+                  <p>Pallisa, Agule T/C, Agule</p>
                 </li>
                 <li>
                   <i className="fa fa-phone fa-lg mt-4 text-primary"></i>
-                  <p>+256(0)759933173<br />+256(0)702325220<br />+256(0)789037899<br />+256(0)761504442</p>
+                  <p>+256(0)759933173<br />+256(0)789037899<br />+256(0)761504442</p>
                 </li>
                 <li>
                   <i className="fa fa-envelope fa-lg mt-4 text-primary"></i>

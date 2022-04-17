@@ -56,7 +56,7 @@ const Experience = ({ reff }) => {
       ref={reff}
       id="experience"
       className="py-5"
-      style={{ backgroundColor: "#fff" }}
+      style={{ backgroundColor: "#fcfe" }}
     >
       <div className="container">
         <h2 className="h1-responsive font-weight-bold text-center mb-5">

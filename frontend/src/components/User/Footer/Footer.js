@@ -71,7 +71,7 @@ const Footer = ({ onLinkClick }) => {
             </h5>
             <p>Kampala, Nsambya, Gogonya</p>
             <p>omodinginnocent121@gmail.com</p>
-            <p>+256(0)759933173<br />+256(0)702325220<br />+256(0)789037899<br />+256(0)761504442</p>
+            <p>+256(0)759933173<br />+256(0)789037899<br />+256(0)761504442</p>
           </div>
         </div>
 
