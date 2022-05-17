@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../Navbar/styles.css";
+import "./styles.css";
 import logo from "../../../assets/images/basry-logo.png";
 import { Link } from "react-router-dom";
 

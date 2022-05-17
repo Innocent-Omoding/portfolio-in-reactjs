@@ -1,6 +1,6 @@
-import React from "react";
-import "./styles.css";
-import homeImage from "../../../assets/images/dev.svg";
+import React from 'react';
+import './styles.css';
+import homeImage from '../../../assets/images/dev.svg.jpg';
 
 const PageIntro = ({ reff }) => {
   return (
@@ -14,9 +14,15 @@ const PageIntro = ({ reff }) => {
                   <div className="col-md-12 mb-4  text-center">
                     <h3
                       className="display-3 fw-bold   pt-md-5 pt-5"
-                      style={{ color: "#2A083F" }}
+                      style={{ color: '#2A083F' }}
                     >
-                      I'm<br />Omoding Innocent<br />Full Stack Web Developer
+                      Hello!
+                      <br />
+                      I'm
+                      <br />
+                      Omoding Innocent,
+                      <br />
+                      Full Stack Web Developer
                     </h3>
                     <hr className=" my-4 text-light" />
                   </div>
