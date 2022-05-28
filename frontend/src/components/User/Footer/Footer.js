@@ -9,7 +9,7 @@ const Footer = ({ onLinkClick }) => {
         <div className="row text-center text-md-left">
           <div className="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
             <h5 className="text-uppercase mb-4 font-weight-bold title">
-              Omoding Innocent
+             Innocent Omoding
             </h5>
             <p className="sub-title">
               I am a junior Software developer
@@ -69,7 +69,7 @@ const Footer = ({ onLinkClick }) => {
             <h5 className="text-uppercase mb-4 font-weight-bold title">
               Contact
             </h5>
-            <p>Kampala, Nsambya, Gogonya</p>
+            <p>Pallisa, Agule T/C, Agule</p>
             <p>omodinginnocent121@gmail.com</p>
             <p>+256(0)759933173<br />+256(0)789037899<br />+256(0)761504442</p>
           </div>
@@ -83,7 +83,7 @@ const Footer = ({ onLinkClick }) => {
               {" "}
               Copyright ©2022 All rights reserved by:
               <span style={{ textDecoration: "none" }}>
-                <strong className="title"> Omoding Innocent</strong>
+                <strong className="title">Innocent Omoding</strong>
               </span>
             </p>
           </div>

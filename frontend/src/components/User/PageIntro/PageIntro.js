@@ -20,7 +20,7 @@ const PageIntro = ({ reff }) => {
                       <br />
                       I'm
                       <br />
-                      Omoding Innocent,
+                      Innocent Omoding,
                       <br />
                       Full Stack Web Developer
                     </h3>
